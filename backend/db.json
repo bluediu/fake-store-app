@@ -247,38 +247,6 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "image": "https://d2y13dg4isa521.cloudfront.net/wp-content/uploads/2022/07/one-piece-hat.jpg",
       "category": "men's clothing"
-    },
-    {
-      "id": "8521",
-      "title": "Jujutsu kaisen shirt",
-      "price": 15,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-      "image": "https://i5.walmartimages.com/seo/Jujutsu-Kaisen-Mens-T-Shirt-Key-Art-Group-Image-X-Large_54255578-064e-48f0-b018-a5e16e02cc90.1496bd363a7a9256cb08dad38b6cde6e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
-      "category": "women's clothing"
-    },
-    {
-      "id": "2747",
-      "title": "product 1",
-      "price": 0,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-      "image": "https://i5.walmartimages.com/seo/Jujutsu-Kaisen-Mens-T-Shirt-Key-Art-Group-Image-X-Large_54255578-064e-48f0-b018-a5e16e02cc90.1496bd363a7a9256cb08dad38b6cde6e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
-      "category": "women's clothing"
-    },
-    {
-      "id": "ccdc",
-      "title": "Jujutsu kaisen coat",
-      "price": 17,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-      "image": "https://i.ebayimg.com/images/g/pb8AAOSwpkpheH~T/s-l1200.webp",
-      "category": "men's clothing"
-    },
-    {
-      "id": "c368",
-      "title": "Jujutsu kaisen outfit",
-      "price": 30,
-      "description": "Embarking on a tech exploration! Diving deep into front-end and back-end realms, aiming to master fundamental web technologies by 2024. Ready to conquer the dynamic landscape of web development. 🏆\n\n",
-      "image": "https://img.fruugo.com/product/3/63/792014633_max.jpg",
-      "category": "women's clothing"
     }
   ]
 }
