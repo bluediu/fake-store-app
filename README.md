@@ -11,8 +11,8 @@ By sticking to simple dummy data, the focus remains on illustrating React Query 
 
 Some of the main improvements:
 
-💬 Focused the intro on highlighting React Query purpose
-📝 Added more details about tech stack  
-✨ Expanded on specific React Query features  
-📱 Noted real-world UI integrations
-⏱️ Emphasized it as a learning sandbox environment
+- 💬 Focused the intro on highlighting React Query purpose
+- 📝 Added more details about tech stack
+- ✨ Expanded on specific React Query features
+- 📱 Noted real-world UI integrations
+- ⏱️ Emphasized it as a learning sandbox environment
